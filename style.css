@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+    color: white;
+}
+.btn-1{
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn-2{
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn-3{
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn-1:hover{
+    background-color: green;
+    color: white;
+
+}
+.btn-2:hover{
+    background-color: red;
+    color: white;
+
+}
+.btn-3:hover{
+    background-color: yellow;
+    color:black;
+
+}
+h2{
+    color: aquamarine;
+}
